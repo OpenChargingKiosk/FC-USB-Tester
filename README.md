@@ -6,6 +6,9 @@ Hardware available on [https://www.tindie.com/stores/FriedCircuits/](https://www
 
 More info can be found on [http://friedcircuits.us/docs/usb-tester](http://friedcircuits.us/docs/usb-tester)
 
+Instructions on how to use with a multimeter [are available here](http://friedcircuits.us/docs/usb-tester)
+
+
 
 License: All source code and designs are released under 
 
